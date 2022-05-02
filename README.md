@@ -1,0 +1,2 @@
+# testowy
+cwiczenia z GITa
