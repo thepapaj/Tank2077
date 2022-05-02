@@ -3,6 +3,7 @@
 int main() {
     printf("Hello Word");
     printf("Tutaj drugi pracownik");
+    printf("Hello Poland");
 }
 
 void oblicz(int a, int b) {
