@@ -1,5 +1,3 @@
-# testowy
-
 # Tank_2077_school
 
 IN PROGRESS !!!
