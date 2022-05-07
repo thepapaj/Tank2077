@@ -1,7 +1,7 @@
 # Tank_2077_school
 
 IN PROGRESS !!!
-- do uproszczenia, wrzucenie do funkcji i wywyływanie, poprawienie obiektówki 
+- do uproszczenia, wrzucenie do funkcji i wywyływanie, poprawienie obiektówki, uniwersalne funkcje
 - poziomy trudności 
 - poprawienie wyświetlania 
 
